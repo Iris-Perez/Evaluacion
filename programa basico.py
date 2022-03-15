@@ -1,0 +1,6 @@
+print("Programa para Sumas")
+print("ingrese el primer numero")
+uno=input()
+print("ingrese el segundo numero")
+dos=input()
+print("La suma es", uno+dos)
